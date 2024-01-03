@@ -1,6 +1,7 @@
-I am
 
-I live
+# I am
+Hello I am John!
+# I live
 
 <!---
 JohnLoock/JohnLoock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
